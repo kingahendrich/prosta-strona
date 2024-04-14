@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Montserrat, sans-serif;
+    font-size: 1rem;
+}
+
+ul {
+    list-style-type: none;
+    text-align: left;
+    padding: 0;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.1rem;
+    margin: 0.4rem 0;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+section { 
+    margin: 2rem 0;
+}
+
+input {
+    display: block;
+}
